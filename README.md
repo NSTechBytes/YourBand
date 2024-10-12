@@ -9,7 +9,7 @@ A simple and dynamic Rainmeter skin that displays text with an RGB cycling effec
 - Simple and minimal design.
 
 ## Preview
-![RGBTextSkin Preview](link-to-preview-image) <!-- Add a link to your image or GIF preview -->
+![RGBTextSkin Preview](https://github.com/NSTechBytes/Projects-Templates/blob/main/RainmeterSkins/YourBand/Screenshot%20(133).png) <!-- Add a link to your image or GIF preview -->
 
 ## Installation
 1. **Download and Install Rainmeter**  
@@ -18,17 +18,17 @@ A simple and dynamic Rainmeter skin that displays text with an RGB cycling effec
 2. **Download RGBTextSkin**  
    Clone or download the skin repository:
    ```bash
-   git clone https://github.com/yourusername/RGBTextSkin.git
+   git clone https://github.com/NSTechBytes/YourBand.git
    ```
 
 3. **Move Skin Folder**  
-   Copy the `RGBTextSkin` folder to your Rainmeter Skins directory:
+   Copy the `YourBand` folder to your Rainmeter Skins directory:
    ```
    Documents\Rainmeter\Skins\
    ```
 
 4. **Refresh Rainmeter**  
-   Right-click on the Rainmeter icon in the system tray and select **Manage**. In the **Skins** tab, find `RGBTextSkin` and load the `RGBText.ini` file.
+   Right-click on the Rainmeter icon in the system tray and select **Manage**. In the **Skins** tab, find `YourBand` .
 
 ## How It Works
 - The **text** displays a customizable message (default is "Hello World!") with an RGB cycling effect.
@@ -36,7 +36,7 @@ A simple and dynamic Rainmeter skin that displays text with an RGB cycling effec
 - The RGB effect and visualizer bars are synchronized using a Lua script that updates the color values dynamically.
 
 ## Customization
-You can easily customize the skin by editing the `RGBText.ini` file:
+You can easily customize the skin by editing the `Config` file:
 - **Text**: Change the message displayed by modifying the `Text` field in the `[Text]` section.
 - **Font Size**: Adjust the size of the text by changing the `FontSize` value in the `[Text]` section.
 - **Position**: Modify the `X` and `Y` coordinates for both the text and visualizer bars to position them as desired.
@@ -44,13 +44,13 @@ You can easily customize the skin by editing the `RGBText.ini` file:
 
 
 ## License
-This project is licensed under the MIT License. Feel free to modify and use it as you see fit.
+This project is licensed under the Appache License. Feel free to modify and use it as you see fit.
 
 ## Contributing
 Contributions are welcome! If you want to improve the skin or add new features, feel free to fork the repository and submit a pull request.
 
 ## Contact
-For any questions or issues, feel free to open an issue or reach out via [email@example.com](mailto:email@example.com).
+For any questions or issues, feel free to open an issue or reach out via [nstechbytes.com](nstechbytes.com).
 
 ---
 
